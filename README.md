@@ -1,4 +1,4 @@
-# ds2500-final-project
+# cpi-ppi-inflation-trends
 ## 📘 Overview
 This project analyzes U.S. inflation trends by comparing **Consumer Price Index (CPI)** and **Producer Price Index (PPI)** data.  
 Using Python, it:
